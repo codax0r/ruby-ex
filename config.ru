@@ -59,8 +59,7 @@ map '/' do
   width: 100%;
   height: 100%;
 }
-*, *:before, *:after {
-    -moz-box-sizing: border-box;
+*, *:before, *:after { -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
 aside,
@@ -239,7 +238,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>Welcome to your Ruby application on OpenShift</h1>
+            <h1>Welcome to your modified Ruby application on OpenShift</h1>
           </hgroup>
 
 
